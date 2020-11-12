@@ -4,5 +4,5 @@ read data(txt) from working directory:  features,activity,x_train,y_train,x_test
 train: bind train data
 test: bind test data
 Mer_dt: merge train and test data
-A: #2 extract only meand & std
+A: #2 extract only mean & std
 tidydata: final dataset after all steps
